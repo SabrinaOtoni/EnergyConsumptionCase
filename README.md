@@ -1,7 +1,7 @@
 # EnergyConsumptionCase
 
 ## Description
-Predicting energy consumption using Machine Learning & Deep Learning (comparison), and analyzing trends using Tableau. 
+Predicting energy consumption (hourly) using Machine Learning & Deep Learning (comparison).
 
 ## Goal
 As a DS student, my goals with this project are to study a little bit more about time series cases and implementing Deep Learning architectures. 
