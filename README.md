@@ -4,7 +4,7 @@
 Predicting energy consumption (hourly) using Machine Learning & Deep Learning (comparison).
 
 ## Goal
-As a DS student, my goals with this project are to study a little bit more about time series cases and implementing Deep Learning architectures. 
+As a DS student, my goals with this project are only to study a little bit more about time series cases, to implement a deep learning model and to compare with a XGBoost model.
 
 ## Dataset
 https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption
@@ -24,6 +24,7 @@ The project has been organized in a linear manner to facilitate navigation and u
 │   ├── n00_data_preparation.ipynb
 │   ├── n01_exploratory_data_analysis.ipynb
 │   ├── n02_data_split.ipynb
+│   ├── n03_feature_engineering.ipynb
 └── README.md
 ```
 
