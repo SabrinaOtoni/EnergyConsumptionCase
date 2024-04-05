@@ -20,8 +20,6 @@ The project has been organized in a linear manner to facilitate navigation and u
 │   ├── d02_intermediate
 │   │   ├── pjme_n00.csv
 │   │   ├── pjme_n01.csv
-│   ├── d03_processed
-│   ├── d04_models
 ├── notebooks
 │   ├── n00_data_preparation.ipynb
 │   ├── n01_exploratory_data_analysis.ipynb
