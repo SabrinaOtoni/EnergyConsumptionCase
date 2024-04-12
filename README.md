@@ -1,10 +1,10 @@
 # EnergyConsumptionCase
 
 ## Description
-Predicting energy consumption (hourly) using Machine Learning & Deep Learning (comparison).
+Predicting energy consumption using an LSTM Autoencoder and XGBoost.
 
 ## Goal
-As a DS student, my goals with this project are only to study a little bit more about time series cases, to implement a deep learning model and to compare with a XGBoost model.
+As a DS student, my goals with this project are only to study a little bit more about time series cases, the implementation of an LSTM Autoencoder and a XGBoost model for prediction.
 
 ## Dataset
 https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption
@@ -20,11 +20,18 @@ The project has been organized in a linear manner to facilitate navigation and u
 │   ├── d02_intermediate
 │   │   ├── pjme_n00.csv
 │   │   ├── pjme_n01.csv
+│   │   ├── pjme_test.csv
+│   │   ├── pjme_train.csv
+├── model
+│   ├── xgboost_gs.pkl
+│   ├── xgboost_params.txt
 ├── notebooks
 │   ├── n00_data_preparation.ipynb
 │   ├── n01_exploratory_data_analysis.ipynb
 │   ├── n02_data_split.ipynb
 │   ├── n03_feature_engineering.ipynb
+│   ├── n04_xgboost_training_validation.ipynb
+│   ├── n04_lstm_training_validation.ipynb
 └── README.md
 ```
 
