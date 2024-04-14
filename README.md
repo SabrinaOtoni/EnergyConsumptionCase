@@ -35,6 +35,9 @@ The project has been organized in a linear manner to facilitate navigation and u
 └── README.md
 ```
 
+https://towardsdatascience.com/step-by-step-understanding-lstm-autoencoder-layers-ffab055b6352
+https://towardsdatascience.com/lstm-autoencoder-for-extreme-rare-event-classification-in-keras-ce209a224cfb
+
 ## Linkedin
 https://www.linkedin.com/in/sabrina-otoni-da-silva-22525519b/
 
